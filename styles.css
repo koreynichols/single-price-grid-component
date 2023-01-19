@@ -26,3 +26,20 @@
     color: var(--bright-yellow);
     font-weight: bold;
 }
+
+p {
+    line-height: 2rem;
+    color: var(--light-gray)
+}
+
+.subscribe-section {
+    background: var(--cyan);
+}
+
+.about-section {
+    background: var(--cyan);
+}
+
+.subscribe-section h2, .about-section h2 {
+    color: var(--light-gray)
+}
