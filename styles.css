@@ -43,3 +43,11 @@ p {
 .subscribe-section h2, .about-section h2 {
     color: var(--light-gray)
 }
+
+input {
+    background-color: var(--bright-yellow);
+    color: white;
+    padding: 1rem 5rem;
+    border-radius: .5rem;
+    border: none;
+}
